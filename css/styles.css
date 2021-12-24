@@ -1,0 +1,84 @@
+.title {
+    font-size: 30px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
+
+.task-title {
+    font-size: 20px;
+}
+
+.a-icon {
+    text-decoration: none
+}
+
+.a-icon i {
+    box-shadow: 0 0 0 4px #fff;
+}
+
+.green {
+    font-size: 30px;
+    cursor: pointer;
+    margin: 15px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+    color: #27ae60;
+}
+
+.green:hover {
+    color: rgba(46, 204, 112, 0.603);
+}
+
+.blue {
+    font-size: 28px;
+    cursor: pointer;
+    margin: 15px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+    color: #2980b9;
+}
+
+.blue:hover {
+    color: rgba(52, 152, 219, 0.74);
+}
+
+.red {
+    font-size: 28px;
+    cursor: pointer;
+    margin: 15px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    z-index: 1;
+    transition: .4s;
+    -webkit-transition: .4s;
+    -moz-transition: .4s;
+    -ms-transition: .4s;
+    -o-transition: .4s;
+    color: #c0392b;
+}
+
+.red:hover {
+    color: rgba(231, 77, 60, 0.863);
+}
+
+.list-group {
+    font-size: 1.5rem;
+}
